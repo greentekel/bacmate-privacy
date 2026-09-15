@@ -2,7 +2,7 @@
 
 Ultima actualizare: 15 septembrie 2026
 
-BacMate este construit local-first: înveți fără cont, fără reclame și fără tracking. Datele de progres rămân pe dispozitiv și pot fi resetate din setările aplicației.
+BacMate este construit local-first: înveți fără cont și fără tracking. Datele de progres rămân pe dispozitiv și pot fi resetate din setările aplicației.
 
 ## Ce date colectăm
 
