@@ -22,7 +22,7 @@ Reminder-ele sunt notificări locale programate pe dispozitiv. Nu folosim un ser
 
 ## Ștergere date
 
-Poți șterge progresul sau poți face reset complet din Setări. Resetul complet elimină profilul, progresul, preferințele și datele locale de onboarding. Dezinstalarea elimină datele locale ale aplicației, dar nu șterge automat eventualele copii de siguranță gestionate de Android. Sistemul poate restaura aceste date la reinstalare sau pe un alt dispozitiv, în funcție de setările tale.
+Poți șterge progresul sau poți face reset complet din Setări. Reset complet elimină profilul, progresul, preferințele și onboarding-ul local. Dezinstalarea elimină datele locale ale aplicației, dar nu șterge automat eventualele copii de siguranță gestionate de Android. Sistemul poate restaura aceste date la reinstalare sau pe un alt dispozitiv, în funcție de setările tale.
 
 ## Contact
 
